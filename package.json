@@ -1,0 +1,24 @@
+{
+  "name": "bot-en-grupo-despliegue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GastonMagarinos/bot-en-grupo-despliegue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/GastonMagarinos/bot-en-grupo-despliegue/issues"
+  },
+  "homepage": "https://github.com/GastonMagarinos/bot-en-grupo-despliegue#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
